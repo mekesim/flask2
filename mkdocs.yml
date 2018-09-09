@@ -1,0 +1,4 @@
+site_name: Flask大型网络应用
+theme: material
+repo_url: https://github.com/example/repository/
+site_author: Colin Yang
